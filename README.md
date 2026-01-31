@@ -2,19 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Pranesh's%20GitHub&fontSize=30&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">👋 Hi there, I'm Pranesh</h2>
+<h2 align="center">👋 Hi there, I'm Charan Tej Reddy </h2>
 
 <p align="center">
-  🎓 Final Year B.Tech AI & ML | 🧠 AI & Web Developer | 🌐 Erode, India
+  🎓 Second Year B.Tech AI & ML | 🧠 AI & Web Developer | 🌐 GUjarat, India
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I’m a **Final Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
-Passionate about **Machine Learning, NLP, Deep Learning, and Cloud Computing**, I enjoy building **AI-powered applications**, **automation tools**, and **cloud-integrated systems**.  
-I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experience with **AI Agents, LLMs, Vision Models, and Cloud Technologies**.
+I’m a **Second Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** in Parul University**.  
+Passionate about **Machine Learning, NLP. I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experience with **AI Agents, LLMs, Vision Models, and Cloud Technologies**.
 
 ---
 
@@ -26,7 +25,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=c,java,python,go&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=c,python&titles=true"
     />
   </a>
 </h3>
