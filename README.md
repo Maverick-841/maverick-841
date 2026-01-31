@@ -147,8 +147,9 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 ### 👁 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
+  <img src="https://komarev.com/ghpvc/?username=Maverick-841&color=blue" />
 </p>
+
 
 ---
 
