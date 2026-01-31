@@ -121,13 +121,13 @@ Developed a real-time messaging application with one-to-one and group chat featu
 
 
 ---
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maverick-841&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maverick-841&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-841&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-841&layout=compact&theme=github_dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=maverick-841&theme=tokyonight)
 ### 🔥 Contribution Streak
 
 ![Streak](./profile/streak.svg)
