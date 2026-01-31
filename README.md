@@ -123,9 +123,9 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maverick-841&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maverick-841&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maverick-841&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-841&layout=compact&theme=tokyonight) 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=maverick-841&theme=tokyonight)
 
