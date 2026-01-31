@@ -94,7 +94,7 @@ I’m proficient in C, Java, Python (Basics), SQL, and have hands-on experience 
 ### 💼 Projects
 
 -🛒 E-Commerce Web Application
-Developed a full-stack E-commerce platform with user authentication, product browsing, cart management, and secure checkout functionality. Implemented frontend UI with modern web technologies and backend APIs for product, user, and order management. Focused on building a scalable architecture and smooth user experience.
+Developed a full-stack E-commerce platform with user authentication, product browsing, cart management, and secure checkout functionality. Implemented frontend UI with modern web technologies and backend APIs for product, user, and order management. Focused on building a scalable architecture and smooth user experience.             
 – AI-Powered Chatbot Application
 Built a real-time chat application integrated with an AI chatbot, enabling users to interact with an intelligent assistant for conversations and queries. Implemented secure authentication, real-time messaging, and AI response generation using modern backend services and APIs.
 - 💬 Real-Time Chat Application
@@ -115,8 +115,9 @@ Developed a real-time messaging application with one-to-one and group chat featu
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maverick-841/Maverick-841/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Maverick-841/Maverick-841/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 ---
