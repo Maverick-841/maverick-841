@@ -95,7 +95,7 @@ I’m proficient in C, Java, Python (Basics), SQL, and have hands-on experience 
 
 -🛒 E-Commerce Web Application
 Developed a full-stack E-commerce platform with user authentication, product browsing, cart management, and secure checkout functionality. Implemented frontend UI with modern web technologies and backend APIs for product, user, and order management. Focused on building a scalable architecture and smooth user experience.
--💬 ChatApp – AI-Powered Chatbot Application
+– AI-Powered Chatbot Application
 Built a real-time chat application integrated with an AI chatbot, enabling users to interact with an intelligent assistant for conversations and queries. Implemented secure authentication, real-time messaging, and AI response generation using modern backend services and APIs.
 - 💬 Real-Time Chat Application
 Developed a real-time messaging application with one-to-one and group chat features using WebSockets / Socket.IO. Implemented user authentication, online/offline status, message persistence, and responsive UI for smooth communication.
@@ -119,13 +119,12 @@ Developed a real-time messaging application with one-to-one and group chat featu
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)  
-![Top Langs](./profile/top-langs.svg)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charantejreddy&show_icons=true&theme=github_dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charantejreddy&layout=compact&theme=github_dark)
+
 
 ### 🔥 Contribution Streak
 
