@@ -126,11 +126,9 @@ Developed a real-time messaging application with one-to-one and group chat featu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maverick-841&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-841&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=maverick-841&theme=tokyonight)
 ### 🔥 Contribution Streak
 
-![Streak](./profile/streak.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=maverick-841&theme=tokyonight)
 
 ---
 
