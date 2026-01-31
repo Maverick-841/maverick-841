@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Pranesh's%20GitHub&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Charan's%20GitHub&fontSize=30&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">👋 Hi there, I'm Charan Tej Reddy </h2>
