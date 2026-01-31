@@ -12,8 +12,9 @@
 
 ### 🚀 About Me
 
-I’m a **Second Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** in Parul University**.  
-Passionate about **Machine Learning, NLP. I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experience with **AI Agents, LLMs, Vision Models, and Cloud Technologies**.
+I’m a Final Year B.Tech student specializing in Artificial Intelligence and Machine Learning at Bannari Amman Institute of Technology.
+Passionate about Machine Learning, NLP, Deep Learning, and Cloud Computing, I enjoy building AI-powered applications, automation tools, and cloud-integrated systems.
+I’m proficient in C, Java, Python (Basics), SQL, and have hands-on experience with AI Agents, LLMs, Vision Models, and Cloud Technologies.
 
 ---
 
@@ -36,9 +37,10 @@ Passionate about **Machine Learning, NLP. I’m proficient in **C, Java, Python 
   <b> Full Stack</b>
 </p>
   <a href="#">
-    <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,gradio,flask,fastapi,graphql,postgres,mysql,redis&titles=true"
-    />
+  <img
+  src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postgres,git,github&titles=true"
+/>
+
   </a>
 </h3>
 
@@ -91,21 +93,12 @@ Passionate about **Machine Learning, NLP. I’m proficient in **C, Java, Python 
 
 ### 💼 Projects
 
-- 📄 **PDF RAG:** Built a collaborative PDF-based Retrieval-Augmented Generation system with GPT-4.1 using Flask (backend) + Azure OpenAI + Next.js (frontend). Supports multi-user simultaneous querying for teamwork.  
-- 🎭 **DeepFake Video Detector:** Developed a detection system to classify AI-generated videos using **MTCNN + EfficientNetV2**, deployed with **Gradio** for interactive testing and feedback.  
-- 💬 **WhatsApp GPT-2 Tanglish Chatbot:** Designed a chat-based bot using GPT-2 with **QLoRA (4-bit quantization)** and **TF-IDF + Cosine Similarity** for Tanglish conversations, optimized for RTX 3050 (6GB).  
-- 😊 **Emotion Detection in Text using BERT:** Built an NLP pipeline with BERT for accurate sentiment/emotion classification and integrated with deployment-ready interfaces.  
-- ⚙️ **Day-to-Day Automation (MCP Servers):** Implemented automation workflows using MCP servers for intelligent task execution and system management.  
-
----
-
-### 📜 Certifications
-
-- Machine Learning with Python – FreeCodeCamp  
-- Microsoft Applied Skills: Creating Intelligent Document Processing with Azure AI  
-- Microsoft Applied Skills: Building NLP Solutions with Azure AI Language  
-- Oracle AI Foundation Associate – Oracle  
-
+-🛒 E-Commerce Web Application
+Developed a full-stack E-commerce platform with user authentication, product browsing, cart management, and secure checkout functionality. Implemented frontend UI with modern web technologies and backend APIs for product, user, and order management. Focused on building a scalable architecture and smooth user experience.
+-💬 ChatApp – AI-Powered Chatbot Application
+Built a real-time chat application integrated with an AI chatbot, enabling users to interact with an intelligent assistant for conversations and queries. Implemented secure authentication, real-time messaging, and AI response generation using modern backend services and APIs.
+- 💬 Real-Time Chat Application
+Developed a real-time messaging application with one-to-one and group chat features using WebSockets / Socket.IO. Implemented user authentication, online/offline status, message persistence, and responsive UI for smooth communication.
 ---
 
 ### 🎯 Areas of Interest
