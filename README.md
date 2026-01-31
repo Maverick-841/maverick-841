@@ -1,20 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Charan's%20GitHub&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=எல்லா%20புகழும்%20இறைவனுக்கே%20✝%20🕉%20☪&fontSize=32&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Pranesh's%20GitHub&fontSize=30&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">👋 Hi there, I'm Charan Tej Reddy </h2>
+<h2 align="center">👋 Hi there, I'm Pranesh</h2>
 
 <p align="center">
-  🎓 Second Year B.Tech AI & ML | 🧠 AI & Web Developer | 🌐 GUjarat, India
+  🎓 Final Year B.Tech AI & ML | 🧠 AI & Web Developer | 🌐 Erode, India
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I’m a Final Year B.Tech student specializing in Artificial Intelligence and Machine Learning at Bannari Amman Institute of Technology.
-Passionate about Machine Learning, NLP, Deep Learning, and Cloud Computing, I enjoy building AI-powered applications, automation tools, and cloud-integrated systems.
-I’m proficient in C, Java, Python (Basics), SQL, and have hands-on experience with AI Agents, LLMs, Vision Models, and Cloud Technologies.
+I’m a **Final Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
+Passionate about **Machine Learning, NLP, Deep Learning, and Cloud Computing**, I enjoy building **AI-powered applications**, **automation tools**, and **cloud-integrated systems**.  
+I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experience with **AI Agents, LLMs, Vision Models, and Cloud Technologies**.
 
 ---
 
@@ -26,7 +27,7 @@ I’m proficient in C, Java, Python (Basics), SQL, and have hands-on experience 
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=c,python&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=c,java,python,go&titles=true"
     />
   </a>
 </h3>
@@ -37,10 +38,9 @@ I’m proficient in C, Java, Python (Basics), SQL, and have hands-on experience 
   <b> Full Stack</b>
 </p>
   <a href="#">
-  <img
-  src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postgres,git,github&titles=true"
-/>
-
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,gradio,flask,fastapi,graphql,postgres,mysql,redis&titles=true"
+    />
   </a>
 </h3>
 
@@ -93,12 +93,21 @@ I’m proficient in C, Java, Python (Basics), SQL, and have hands-on experience 
 
 ### 💼 Projects
 
--🛒 E-Commerce Web Application
-Developed a full-stack E-commerce platform with user authentication, product browsing, cart management, and secure checkout functionality. Implemented frontend UI with modern web technologies and backend APIs for product, user, and order management. Focused on building a scalable architecture and smooth user experience.             
-– AI-Powered Chatbot Application
-Built a real-time chat application integrated with an AI chatbot, enabling users to interact with an intelligent assistant for conversations and queries. Implemented secure authentication, real-time messaging, and AI response generation using modern backend services and APIs.
-- 💬 Real-Time Chat Application
-Developed a real-time messaging application with one-to-one and group chat features using WebSockets / Socket.IO. Implemented user authentication, online/offline status, message persistence, and responsive UI for smooth communication.
+- 📄 **PDF RAG:** Built a collaborative PDF-based Retrieval-Augmented Generation system with GPT-4.1 using Flask (backend) + Azure OpenAI + Next.js (frontend). Supports multi-user simultaneous querying for teamwork.  
+- 🎭 **DeepFake Video Detector:** Developed a detection system to classify AI-generated videos using **MTCNN + EfficientNetV2**, deployed with **Gradio** for interactive testing and feedback.  
+- 💬 **WhatsApp GPT-2 Tanglish Chatbot:** Designed a chat-based bot using GPT-2 with **QLoRA (4-bit quantization)** and **TF-IDF + Cosine Similarity** for Tanglish conversations, optimized for RTX 3050 (6GB).  
+- 😊 **Emotion Detection in Text using BERT:** Built an NLP pipeline with BERT for accurate sentiment/emotion classification and integrated with deployment-ready interfaces.  
+- ⚙️ **Day-to-Day Automation (MCP Servers):** Implemented automation workflows using MCP servers for intelligent task execution and system management.  
+
+---
+
+### 📜 Certifications
+
+- Machine Learning with Python – FreeCodeCamp  
+- Microsoft Applied Skills: Creating Intelligent Document Processing with Azure AI  
+- Microsoft Applied Skills: Building NLP Solutions with Azure AI Language  
+- Oracle AI Foundation Associate – Oracle  
+
 ---
 
 ### 🎯 Areas of Interest
@@ -119,18 +128,15 @@ Developed a real-time messaging application with one-to-one and group chat featu
 </p>
 
 
-
 ---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maverick-841&show_icons=true&theme=tokyonight)
 
-
-### 🔥 Contribution Streak
-
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maverick-841&layout=compact&theme=tokyonight)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=maverick-841&theme=tokyonight)
 
 ### ⏲ WakaTime Stats
 
