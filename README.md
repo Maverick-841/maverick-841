@@ -115,8 +115,9 @@ Developed a real-time messaging application with one-to-one and group chat featu
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Maverick-841/Maverick-841/output/github-snake.svg"/>
 </p>
+
 
 ---
 ### 📊 GitHub Stats
