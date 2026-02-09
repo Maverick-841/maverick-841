@@ -38,33 +38,13 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
   <b> Full Stack</b>
 </p>
   <a href="#">
-    <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,gradio,flask,fastapi,graphql,postgres,mysql,redis&titles=true"
-    />
+  <img
+  src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb&titles=true"
+/>
+
   </a>
 </h3>
 
-<h3>
-  <p>
-  <b>ML,DS&DL</b>
-</p>
-  <a href="#">
-    <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,opencv&titles=true"
-    />
-  </a>
-</h3>
-
-<h3>
-  <p>
-  <b>LLM, GenAI & AI Agents</b>
-</p>
-  <a href="#">
-    <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=ollama,langchain,crewai,n8n,mcp&titles=true"
-    />
-  </a>
-</h3>
 
 <h3>
   <p>
@@ -72,7 +52,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=azure,linux,bash,docker,vercel,render,railway,huggingface,supabase&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=docker,vercel,render&titles=true"
     />
   </a>
 </h3>
@@ -84,22 +64,23 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,intel,jupyter,googlecolab,git,github,gitlab&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,git,github&titles=true"
     />
   </a>
 </h3>
 
 ---
 
-### 💼 Projects
+💼 Projects
 
-- 🛒 **E-Commerce Web Application:** Developed a full-stack e-commerce platform with user authentication, product listing, cart management, and secure checkout. Built responsive frontend interfaces and backend APIs for managing users, products, and orders, focusing on scalability and smooth user experience.
+🛒 E-Commerce Web Application (MERN Stack)
+Developed a full-stack e-commerce platform with user authentication, product listing, cart management, and secure checkout. Implemented RESTful backend APIs for managing users, products, orders, and payments, including Stripe payment gateway integration. Built a responsive React-based frontend focused on scalability, performance, and smooth user experience.
 
-- 💬 **ChatApp – Real-Time Chat Application:** Built a real-time chat application with one-to-one and group messaging using WebSockets / Socket.IO. Implemented user authentication, online/offline status, message persistence, and a responsive UI for seamless communication.
+💬 ChatApp – Real-Time Chat Application
+Built a real-time chat application supporting one-to-one and group messaging using Socket.IO. Implemented user authentication, real-time message delivery, online/offline status tracking, and message persistence. Designed a responsive and intuitive UI for seamless communication across devices.
 
-- 🤖 **AI Chatbot Application:** Developed an AI-powered chatbot that enables users to ask questions and receive intelligent responses. Integrated natural language processing and AI APIs to support conversational interactions and real-time responses.
-
----
+🤖 AI Chatbot / MoodMitra – AI Powered Web Application
+Developed an AI-powered chatbot application that enables users to ask questions and receive intelligent, context-aware responses. Integrated Retrieval-Augmented Generation (RAG) with local LLMs to improve response accuracy. Implemented backend APIs and prompt engineering techniques to support real-time conversational interactions.
 
 ### 🎯 Areas of Interest
 
