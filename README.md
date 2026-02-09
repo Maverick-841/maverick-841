@@ -103,15 +103,12 @@ Developed an AI-powered chatbot application that enables users to ask questions 
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maverick-841&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-841&layout=compact&theme=tokyonight)
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maverick-841&theme=tokyonight)
 
-### ⏲ WakaTime Stats
-
-![WakaTime](./profile/wakatime.svg)
 
 ---
 
