@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I’m a **Second Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
+I’m a **Second Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Parul University**.  
 Passionate about **Machine Learning, NLP, Deep Learning, and Cloud Computing**, I enjoy building **AI-powered applications**, **automation tools**, and **cloud-integrated systems**.  
 I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experience with **AI Agents, LLMs, Vision Models, and Cloud Technologies**.
 
@@ -31,7 +31,6 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
     />
   </a>
 </h3>
-
 
 <h3>
   <p>
