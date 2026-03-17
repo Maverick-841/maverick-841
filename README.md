@@ -70,7 +70,6 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ---
 
-💼 Projects
 
 
 ### 🎯 Areas of Interest
