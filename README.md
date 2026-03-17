@@ -72,14 +72,6 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 💼 Projects
 
-🛒 E-Commerce Web Application (MERN Stack)
-Developed a full-stack e-commerce platform with user authentication, product listing, cart management, and secure checkout. Implemented RESTful backend APIs for managing users, products, orders, and payments, including Stripe payment gateway integration. Built a responsive React-based frontend focused on scalability, performance, and smooth user experience.
-
-💬 ChatApp – Real-Time Chat Application
-Built a real-time chat application supporting one-to-one and group messaging using Socket.IO. Implemented user authentication, real-time message delivery, online/offline status tracking, and message persistence. Designed a responsive and intuitive UI for seamless communication across devices.
-
-🤖 AI Chatbot / MoodMitra – AI Powered Web Application
-Developed an AI-powered chatbot application that enables users to ask questions and receive intelligent, context-aware responses. Integrated Retrieval-Augmented Generation (RAG) with local LLMs to improve response accuracy. Implemented backend APIs and prompt engineering techniques to support real-time conversational interactions.
 
 ### 🎯 Areas of Interest
 
