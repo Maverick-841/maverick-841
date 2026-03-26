@@ -78,8 +78,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 - Generative AI & LLMs  
 - AI Agents & Automation  
 - Cloud Computing (Azure) & Docker  
-- Database Design & Vector Databases (ChromaDB)  
-- Intelligent Automation  
+- Database Design & Vector Databases (ChromaDB) 
 
 ---
 
