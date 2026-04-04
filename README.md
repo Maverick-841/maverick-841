@@ -93,6 +93,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-stats-six-pied.vercel.app/api?username=Maverick-841&theme=tokyonight&show_icons=true)
 
+![Top Languages](https://github-stats-six-pied.vercel.app/api/top-langs/?username=Maverick-841&layout=compact&theme=tokyonight)
 
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maverick-841&theme=tokyonight)
