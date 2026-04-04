@@ -100,6 +100,13 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     44 mins               ██████████████▓░░░░░░░░░░   58.08 %
+JavaScript   29 mins               █████████▒░░░░░░░░░░░░░░░   37.82 %
+JSON         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
