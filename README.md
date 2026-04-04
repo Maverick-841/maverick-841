@@ -98,7 +98,9 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maverick-841&theme=tokyonight)
 
-
+## ⏱ WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### 👁 Profile Views
