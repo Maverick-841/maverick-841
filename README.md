@@ -141,5 +141,5 @@ Python   1 min                 ████████████████�
 ---
 
 <p align="center">
-  💻 Always open to collaborating on exciting **AI,  ML, or Cloud-based projects**. Let’s innovate together!
+  💻 Always open to collaborating on exciting **AI, ML, or Cloud-based projects**. Let’s innovate together!
 </p>
