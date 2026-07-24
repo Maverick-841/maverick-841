@@ -102,11 +102,16 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2026 - To: 22 July 2026
+From: 16 July 2026 - To: 23 July 2026
 
-Total Time: 0 secs
+Total Time: 5 mins
 
-No activity tracked
+Text         3 mins                ████████████████░░░░░░░░░   64.44 %
+TOML         1 min                 ███████░░░░░░░░░░░░░░░░░░   28.26 %
+Git Config   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Python       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
