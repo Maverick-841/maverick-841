@@ -23,7 +23,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 <h3>
   <p>
-  <b>Programming Language</b>
+  <b>Programming Language </b>
 </p>
   <a href="#">
     <img
