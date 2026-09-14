@@ -102,7 +102,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2026 - To: 12 September 2026
+From: 06 September 2026 - To: 13 September 2026
 
 Total Time: 0 secs
 
